@@ -4,8 +4,8 @@
 from instabot_py import InstaBot
 
 bot = InstaBot(
-    login="momox_man",  # Enter username (lowercase). Do not enter email!
-    password="Lordjavivi1991",
+    login="User",  # Enter username (lowercase). Do not enter email!
+    password="pass",
     like_per_day=1000,
     comments_per_day=20,
     tag_list=["laviaplutoniana","quetripa", "venezuela","argentina","elsecretodesusmomos","humor","viral","meme","memes","buenosaires","risa"],
